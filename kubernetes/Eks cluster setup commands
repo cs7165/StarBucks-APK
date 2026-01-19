@@ -29,7 +29,7 @@ eksctl create nodegroup \
   --nodes-max=4 \
   --node-volume-size=20 \
   --ssh-access \
-  --ssh-public-key=starbucks1 \
+  --ssh-public-key=sagar_key \
   --managed \
   --asg-access \
   --external-dns-access \
